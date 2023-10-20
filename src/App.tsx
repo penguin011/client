@@ -4,7 +4,7 @@ const DefaultLayout = lazy(() => import('./layout/DefaultLayout'));
 function App() {
   return (
     <div className="App">
-       <DefaultLayout/>
+      <DefaultLayout/>
     </div>
   );
 }
